@@ -1,0 +1,7 @@
+frame,time_s,track_id,class,direction
+38,1.58,1,car,down
+63,2.63,3,car,down
+98,4.09,6,car,down
+150,6.26,79,car,up
+175,7.3,84,car,up
+191,7.97,99,car,up

@@ -1,0 +1,15 @@
+{
+  "video": "traffic.mp4",
+  "model": "yolov8n.pt",
+  "frames_processed": 198,
+  "frames_total": 198,
+  "total_count": 6,
+  "by_class": {
+    "car": 6
+  },
+  "by_direction": {
+    "up": 3,
+    "down": 3
+  },
+  "processing_fps": 10.3
+}

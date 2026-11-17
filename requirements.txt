@@ -1,0 +1,7 @@
+streamlit>=1.35
+ultralytics>=8.2
+opencv-python>=4.9
+pandas>=2.0
+plotly>=5.20
+imageio-ffmpeg>=0.4.9
+lap>=0.5.12

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Model weights and generated files
+*.pt
+*.pth
+*.onnx
+runs/
+
+*.bak
+*.mp4
+*.pt
+*.pth
+*.onnx
+runs/
+__pycache__/
+.venv/
